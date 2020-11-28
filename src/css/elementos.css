@@ -1,0 +1,153 @@
+html,body{
+    margin: 0;
+    border: none;
+    padding: 0;
+}
+
+
+
+.menu-principal{
+    width: 100%;
+    height: 50px;
+    border-radius: 0;
+}
+
+.principal{
+    width: 100%;
+    height: 180px;
+}
+
+.destaque{
+    width: 260px;
+    height: 300px;
+    margin-left: 9%;
+    border-radius: 5px;
+}
+
+.separador{
+    width: 100%;
+    height: 30px;
+}
+
+.oficial-destaque{
+    width: 260px;
+    height: 300px;
+    margin-left: 72%;
+    margin-top: -300px;
+    border-radius: 5px;
+}
+
+.bloco-central{
+    width: 540px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -300px;
+    border-radius: 5px;
+}
+
+.bloco-aviso{
+    width: 260px;
+    height: 140px;
+    margin-left: 120px;
+    margin-top: -85px;
+    border-radius: 5px;
+}
+
+.bloco-aviso2{
+    width: 260px;
+    height: 140px;
+    margin-left: 120px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.bloco-rapido{
+    width: 260px;
+    height: 50px;
+    margin-left: auto;
+    border-radius: 5px;
+    position: absolute;
+    top: 575px;
+    left: auto;
+    right: 120px;
+
+}
+
+.bloco-rapido2{
+    width: 260px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: 120px;
+    margin-top: -291px;
+    border-radius: 5px;
+    
+}
+
+.novos-membros{
+    width: 260px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: 120px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.eventos{
+    width: 260px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: 120px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.lobby{
+    width: 100%;
+    height: 213px;
+    margin-top: 50px;
+    
+}
+
+.oficiais{
+    width: 100%;
+    height: 450px;
+}
+
+.pag-final{
+    width: 100%;
+    height: 180px;
+    margin-top: 300px;
+}
+
+.creditos{
+    width: 100%;
+    height: 50px;
+}
+
+.item-menu{
+    display: inline-block;
+
+}
+
+.item-menu a {
+    text-decoration: none;
+    color: #c5c1c1be;
+    font-family: Arial;
+    padding: 9px;
+    font-size: 16px;
+   
+}
+
+div ul{
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: center;
+    
+    
+}
+
+
